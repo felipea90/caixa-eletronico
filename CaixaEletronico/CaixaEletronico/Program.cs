@@ -126,13 +126,18 @@ namespace Caixa.Eletronico
                                     Console.WriteLine("Notas de R$ 10: " + n10);
                                 }
 
-                                int n5 = resto / 5;
-                                resto -= (n5 * 5);
 
-                                if (n5 != 0)
-                                {
-                                    Console.WriteLine("Notas de R$ 5: " + n5);
-                                }
+                                //int n5 = resto / 5;
+
+                                //if (n5 % 2 == 0)
+                                //{
+                                //    resto -= (n5 * 5);
+
+                                //    if (n5 != 0)
+                                //    {
+                                //        Console.WriteLine("Notas de R$ 5: " + n5);
+                                //    }
+                                //}
 
                                 int n2 = resto / 2;
                                 resto = (n2 * 2);

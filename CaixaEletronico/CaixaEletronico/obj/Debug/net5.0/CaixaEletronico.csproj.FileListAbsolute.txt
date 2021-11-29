@@ -13,3 +13,4 @@ C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico
 C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\ref\CaixaEletronico.dll
 C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.pdb
 C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.genruntimeconfig.cache
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.csproj.AssemblyReference.cache
