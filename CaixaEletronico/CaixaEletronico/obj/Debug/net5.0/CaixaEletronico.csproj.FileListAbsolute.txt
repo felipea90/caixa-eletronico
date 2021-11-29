@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.exe
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.deps.json
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.runtimeconfig.json
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.runtimeconfig.dev.json
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.dll
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\ref\CaixaEletronico.dll
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.pdb
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.dll
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\ref\CaixaEletronico.dll
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.pdb
+C:\Users\felip\Documents\Cursos\caixa-eletronico\CaixaEletronico\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.genruntimeconfig.cache
